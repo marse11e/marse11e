@@ -1,6 +1,6 @@
 <img width="98%" alt="Trophy" src="https://github-profile-trophy.vercel.app/?username=aeristhy&row=4&theme=onedark&no-frame=true" data-canonical-src="https://github-profile-trophy.vercel.app/?username=aeristhy&row=4&theme=onedark&no-frame=true" style="max-width: 100%;">
 <br>
-![498dd4afcd3e84b1f6df2e8d1c6e9607](https://user-images.githubusercontent.com/101027445/205465283-0c087adb-f7e9-4529-a84a-d074b24910a0.gif)
+<img src='https://user-images.githubusercontent.com/101027445/205465283-0c087adb-f7e9-4529-a84a-d074b24910a0.gif'>
 
 <img src="https://i.pinimg.com/originals/65/56/ca/6556ca0886a22948573c1845169e7a21.gif">
 <!--<img src="https://i.pinimg.com/originals/0c/db/37/0cdb3703d1f9dad931ba0ea85ef7415f.gif"> -->
