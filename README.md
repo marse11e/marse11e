@@ -18,6 +18,6 @@
 
 <code>
   <a href='' rel="nofollow">
-    <img crs='https://icons8.com/icon/0M5adtqhEjN5/github' style="max-width:">
+    <img crs='https://icons8.com/icon/0M5adtqhEjN5/github' style="max-width: 300px;">
   </a>
 </code>
