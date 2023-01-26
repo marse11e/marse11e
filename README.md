@@ -15,7 +15,7 @@
 <br><br>
 </p>
  -->
-<table style="border-radius: 25px;"><tr><td valign="top" width="33%"><div align="center">  
+<table border="3"><tr><td valign="top" width="33%"><div align="center">  
 <img src='https://user-images.githubusercontent.com/101027445/205465907-4b077c0e-ec2e-4294-acd7-ad33904f28e0.png'>
     <!-- <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a> -->
     <!-- <a href="https://hibernate.org/" target="_blank"><img style="margin: 10px" src="https://media.bitdegree.org/storage/media/images/2018/12/hibernate-interview-questions-logo.png" alt="Hibarnate" height="50" /></a>  -->
