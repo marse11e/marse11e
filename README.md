@@ -15,9 +15,8 @@
 <code><a href="https://www.docker.com/" rel="nofollow"><img height="50" src="https://camo.githubusercontent.com/5c52044e01222cc66415f3acf1b54cfb936e9bdd3076eb844884568c64b414ca/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f646f636b65722f646f636b65722d6f6666696369616c2e737667" data-canonical-src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" style="max-width: 100%;"></a></code>
 <br><br>
 </p>
- --><table><tr><td valign="top" width="33%">
-
-    <div align="center">  
+ -->
+<table><tr><td valign="top" width="33%"><div align="center">  
     <!-- <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a> -->
     <!-- <a href="https://hibernate.org/" target="_blank"><img style="margin: 10px" src="https://media.bitdegree.org/storage/media/images/2018/12/hibernate-interview-questions-logo.png" alt="Hibarnate" height="50" /></a>  -->
     <!-- <a href="https://spring.io/" target="_blank"><img style="margin: 10px" src="https://springframework.guru/wp-content/uploads/2015/02/spring-framework-project-logo.png" alt="Spring Freamwork" height="50" /></a> -->
@@ -52,8 +51,7 @@
     <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a> 
     <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
     </div>
-    
-    </td></tr></table>  
+ </td></tr></table>  
     
 
 <br/>  
