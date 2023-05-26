@@ -4,8 +4,16 @@
 <!-- <img src='https://user-images.githubusercontent.com/101027445/205465283-0c087adb-f7e9-4529-a84a-d074b24910a0.gif'> -->
 <!-- <img src="https://i.pinimg.com/originals/65/56/ca/6556ca0886a22948573c1845169e7a21.gif"> -->
 
+<img src='https://github.com/marse11e/marse11e/assets/101027445/ee34e54f-28ee-481e-870f-4da6018e162e'><img src='https://github.com/marse11e/marse11e/assets/101027445/81a846f7-1b6c-484f-9f78-5f2f94c4e482'>
+<div align="center">
+<a href="https://github.com/marse11e" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
 
-
+<a href="https://t.me/MarselleNaz" target="_blank">
+<img src=https://img.shields.io/badge/telegram-%231E77B1.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
+</a>
+</div>  
 
 
 <!-- <code><a href="https://www.python.org/" rel="nofollow"><img height="50" src="https://camo.githubusercontent.com/0a719c24a5eb8062d68bdabbd7306a0dcab0b0ce7093a8550870497456863ec9/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f707974686f6e2f707974686f6e2d617232312e737667" data-canonical-src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" style="max-width: 100%;"></a></code>
@@ -16,7 +24,7 @@
 </p>
  -->
 
-<img src='https://github.com/marse11e/marse11e/assets/101027445/ee34e54f-28ee-481e-870f-4da6018e162e'><img src='https://github.com/marse11e/marse11e/assets/101027445/81a846f7-1b6c-484f-9f78-5f2f94c4e482'>
+
 <!-- <table border="1"><tr><td valign="top" width="33%"><div align="center">   -->
     <!-- <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a> -->
     <!-- <a href="https://hibernate.org/" target="_blank"><img style="margin: 10px" src="https://media.bitdegree.org/storage/media/images/2018/12/hibernate-interview-questions-logo.png" alt="Hibarnate" height="50" /></a>  -->
@@ -58,15 +66,3 @@
 <br/>  
 
  -->
-
-<div align="center">
-<a href="https://github.com/marse11e" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-
-<a href="https://t.me/MarselleNaz" target="_blank">
-<img src=https://img.shields.io/badge/telegram-%231E77B1.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
-</a>
- 
-
-</div>  
