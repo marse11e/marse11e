@@ -17,4 +17,4 @@
 <img src="https://github-profile-trophy.vercel.app/?username=marse11e&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" width="800px">
 </th>
 </table><br>
-<img src="https://github.com/marse11e/marse11e/assets/101027445/8859ce7a-7c8d-4ced-938f-944d4df12299">
+<img src="https://github.com/marse11e/marse11e/assets/101027445/8859ce7a-7c8d-4ced-938f-944d4df12299" width="800px">
