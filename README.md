@@ -3,8 +3,9 @@
 <div style="display: flex;">
   
 ![](https://github-readme-stats.vercel.app/api?username=marse11e&theme=radical&hide_border=true&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=marse11e&theme=radical&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=marse11e&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=marse11e&theme=radical&hide_border=true)
+
 ![](https://github-profile-trophy.vercel.app/?username=marse11e&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
 </div>
 <table border="1">
