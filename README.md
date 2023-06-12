@@ -1,5 +1,5 @@
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/marselle.naz) 
+
 <div style="display: flex;">
   
 ![](https://github-readme-stats.vercel.app/api?username=marse11e&theme=radical&hide_border=true&include_all_commits=false&count_private=true)
