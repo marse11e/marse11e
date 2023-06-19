@@ -5,7 +5,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=marse11e&theme=radical&hide_border=true&include_all_commits=false&count_private=true)
 <img src="https://github.com/marse11e/marse11e/assets/101027445/64918b45-7231-4d37-8740-7634bc335730" width="260px">
 ![](https://github-readme-streak-stats.herokuapp.com/?user=marse11e&theme=radical&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=marse11e&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)<br>
+<img src="https://github.com/marse11e/marse11e/assets/101027445/e9fe3235-cca6-470b-bd57-1dbd5593fb63" width="260px">
 
 </div>
 <table border="1">
