@@ -16,3 +16,10 @@
 <img src="https://github-profile-trophy.vercel.app/?username=marse11e&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" width="800px">
 </th>
 </table>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-user-contribution.svg" />
+</picture>
