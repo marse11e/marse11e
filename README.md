@@ -1,5 +1,3 @@
-![image](https://github.com/marse11e/marse11e/assets/101027445/a9b12d42-1601-4648-b1c5-ca083456b751)
-
 
 <div style="display: flex;">
   
