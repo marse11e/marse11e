@@ -66,49 +66,6 @@
 </details>
 
 
-<details>
-    <summary><strong>Contacts</strong></summary>
-    <details>
-        <summary><img width="15px" height="15px" src="./icons/telegram.png" /> <strong>Telegram</strong></summary>
-        <div id="header" align="center">
-            <a href='https://t.me/MarselleNaz'>
-                <img style="border-radius: 50%;" width="100px" height="100px" src='https://cdn4.cdn-telegram.org/file/o5SFGPgA48NZ3jR1Hya1s7c0aHFW2pWNjTNiGvGX2ZlwndTOjhb64eJwN4WszsZKDupXKVXIxLc1vxIwdcXugIyoJtJ_KwiCF0y1_prrv7dVxRzOJRxIU6lE5nKuU24cQXKD0x5WKiWqvpP3VjYXJEceEH_VFt3o8abSy4-rJCDTcvDWHwYJ9XdcY4x1OTs1Bb1fYQr0HFFmVu6ZB8M6KNYm0K2SODLFgprGSEDCvz2kZ9F_VaYVoiWiENyaIRzd96LrVeGdxKPf7-zKnopXm83xnknzH6t7o9ujyWaYteA5pwA51M1kD3Zd8JX8Hjh6ay_yK8zSX30sgcZsz_LnQg.jpg'>
-                <h3>Marselle Naz 360°</h3>
-            </a>
-        </div>
-    </details>
-    <details>
-        <summary><img width="15px" height="15px" src="./icons/instagram.png" /> <strong>Instagram</strong></summary>
-        <div id="header" align="center">
-            <a href='https://instagram.com/marselle.naz'>
-                <img style="border-radius: 50%;" width="100px" height="100px" src='https://cdn-s2.toolzu.com/media/442993413_1189107932256954_7591029770933562885_n.jpg?url=https%3A%2F%2Fscontent.cdninstagram.com%2Fv%2Ft51.2885-19%2F442993413_1189107932256954_7591029770933562885_n.jpg%3Fstp%3Ddst-jpg_s320x320%26_nc_ht%3Dinstagram.fmnl33-6.fna.fbcdn.net%26_nc_cat%3D106%26_nc_ohc%3DIHl-m1KjHVMQ7kNvgEPnXmZ%26gid%3D7681645ca968474fb521d9f236e2453b%26edm%3DAOQ1c0wBAAAA%26ccb%3D7-5%26oh%3D00_AYBosy4kB72MX9te3LuwvTKC6aRBzR7py4wjcp1-sZdkRw%26oe%3D66B35308%26_nc_sid%3D8b3546&time=1722646800&key=179aa0517fae302ebd13ced428744b38'>
-                <h3>Marselle Naz 360°</h3>
-            </a>
-        </div>
-    </details>
-    <details>
-        <summary><img width="15px" height="15px" src="./icons/linkedin.png" /> <strong>Linkedin</strong></summary>
-        <div id="header" align="center">
-            <a href='https://www.linkedin.com/in/marselle-naz-143a55263/'>
-                <img style="border-radius: 50%;" width="100px" height="100px" src='https://media.licdn.com/dms/image/D4D03AQH96VB9zeXwNw/profile-displayphoto-shrink_400_400/0/1720881659757?e=1727913600&v=beta&t=se7uX0iOq6ToAccGf5ch1u5q5gXuqffD83ETfhmNGGg'>
-                <h3>Marselle Naz 360°</h3>
-            </a>
-        </div>
-        <h4><img width="30px" height="30px" src="https://media.licdn.com/dms/image/D4E0BAQE072niZ6TDRg/company-logo_100_100/0/1721025312821/itc_soft_logo?e=1730937600&v=beta&t=9pXsVlcX9JBkaRYPBIgS8PUlRx2nV2qVrDDJE-rlSHg" />ITC Soft · Software Engineer</h4>
-        <p>
-            ITC Soft · Полный рабочий день
-            <br>июль 2022 г. – настоящее время · 2 г. 2 мес.июль 2022 г. – настоящее время · 2 г. 2 мес.
-            <br>Алматы, Казахстан · Удаленная работа
-        </p>
-        <h4><img width="30px" height="30px" src="https://media.licdn.com/dms/image/C4E0BAQH4bnOsr92myQ/company-logo_100_100/0/1650565554267?e=1730937600&v=beta&t=px2RBwicrASf5hIsJcNY_AUytqdSYAWY_kdWxAa9RzM" />ITC Bootcamp · Python-разработчик</h4>
-        <p>
-            ITC Bootcamp · Частичная занятость
-            <br>июнь 2022 г. - июль 2024 г. · 2 г. 2 мес.июнь 2022 г. – июль 2024 г. · 2 г. 2 мес.
-            <br>Казахстан · Работа в офисе
-        </p>
-    </details>
-</details>
-
 
 ### Hide secret text inside an image using Python.
 
