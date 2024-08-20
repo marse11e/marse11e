@@ -2,8 +2,8 @@ name: Update Calendars
 
 on:
   schedule:
-    - cron: '0 0 * * 1'  # Запускать каждую неделю в понедельник
-  workflow_dispatch:  # Позволяет запускать рабочий процесс вручную
+    - cron: '0 0 * * 1'
+  workflow_dispatch:
 
 jobs:
   update:
