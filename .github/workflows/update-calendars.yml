@@ -1,0 +1,39 @@
+name: Update Calendars
+
+on:
+  schedule:
+    - cron: '0 0 * * 1'  # Запускать каждую неделю в понедельник
+  workflow_dispatch:  # Позволяет запускать рабочий процесс вручную
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Generate half-year calendar
+      uses: lowlighter/metrics@latest
+      with:
+        filename: metrics.plugin.isocalendar.svg
+        token: ${{ secrets.METRICS_TOKEN }}
+        base: ""
+        plugin_isocalendar: yes
+
+    - name: Generate full-year calendar
+      uses: lowlighter/metrics@latest
+      with:
+        filename: metrics.plugin.isocalendar.fullyear.svg
+        token: ${{ secrets.METRICS_TOKEN }}
+        base: ""
+        plugin_isocalendar: yes
+        plugin_isocalendar_duration: full-year
+
+    - name: Commit and push updated images
+      run: |
+        git config --global user.name 'GitHub Actions'
+        git config --global user.email 'actions@github.com'
+        git add metrics.plugin.isocalendar.svg metrics.plugin.isocalendar.fullyear.svg
+        git commit -m 'Update calendar images'
+        git push
