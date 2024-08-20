@@ -60,9 +60,11 @@
 
 <details>
     <summary><strong>GitHub Stats</strong></summary>
-    <img src="https://github-readme-stats.vercel.app/api?username=marse11e&theme=radical&hide_border=true&include_all_commits=false&count_private=true">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=marse11e&theme=radical&hide_border=true">
-    <img src="https://github-profile-trophy.vercel.app/?username=marse11e&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" width="950px">
+    <img src="https://github-readme-stats.vercel.app/api?username=marse11e&theme=dark&hide_border=true&include_all_commits=false&count_private=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=marse11e&theme=dark&hide_border=true">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marse11e&theme=dark" width="950px">
+    <img src="https://github-profile-trophy.vercel.app/?username=marse11e&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" width="950px">
+
 </details>
 
 
@@ -96,3 +98,5 @@ print(lsb.reveal('secret_image.png'))
     <a href='https://instagram.com/marselle.naz'>Instagram</a> - 
     <a id="cy-effective-orcid-url" class="underline" href="https://orcid.org/0009-0005-2219-5843" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align: top">ORCID ID</a>
 </div>
+
+
