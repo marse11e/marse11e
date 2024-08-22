@@ -99,6 +99,3 @@ print(lsb.reveal('secret_image.png'))
     <a href='https://instagram.com/marselle.naz'>Instagram</a> - 
     <a id="cy-effective-orcid-url" class="underline" href="https://orcid.org/0009-0005-2219-5843" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align: top">ORCID ID</a>
 </div>
-
-
-<a href="README.md" download="README.md">Скачать файл</a>
