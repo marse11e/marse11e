@@ -17,7 +17,7 @@
 <ul>
     <li>Software developer with bold ideas</li>
     <li>Currently working on an open-source project called 
-        <strong>Telegram-Business-Account</strong>
+        <strong>CamAI-Search</strong>
     </li>
     <li>Graduated with a degree in Computer Science and 3.5 years of experience as a Python developer</li>
     <li>Passionate about various technologies including Redis, Docker, Django, RESTful, FastAPI, GraphQL and more</li>
