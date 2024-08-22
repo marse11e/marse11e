@@ -48,49 +48,49 @@
 
 <details>
     <summary><strong>Favorite language & Software</strong></summary>
+    <p>These programming languages and operating systems are my favorites because they provide powerful tools for development.</p>
     <div id="header" align="center">
         <table border="1">
             <tr>
-                <th>Языки программирования</th>
-                <th>Уровень знаний</th>
-                <th>Количество проектов</th>
+                <th><b>Programming Languages</b></th>
+                <th><b>Knowledge Level</b></th>
+                <th><b>Number of Projects</b></th>
             </tr>
             <tr>
-                <td>Python</td>
-                <td>Высокий</td>
+                <td><a href="https://docs.python.org/3/index.html">Python</a></td>
+                <td>High</td>
                 <td>60+</td>
             </tr>
             <tr>
-                <td>Go</td>
-                <td>Средний</td>
+                <td><a href="https://go.dev/doc/">Go</a></td>
+                <td>Intermediate</td>
                 <td>8+</td>
             </tr>
             <tr>
-                <td>JavaScript</td>
-                <td>Средний</td>
+                <td><a href="https://js-documentation.netlify.app/">JavaScript</a></td>
+                <td>Intermediate</td>
                 <td>12+</td>
             </tr>
         </table>
         <table border="1">
             <tr>
-                <th>Операционные системы</th>
-                <th>Уровень знаний</th>
-                <th>Опыт (в годах)</th>
+                <th><b>Operating Systems</b></th>
+                <th><b>Knowledge Level</b></th>
+                <th><b>Experience (in years)</b></th>
             </tr>
             <tr>
-                <td>Linux Ubuntu</td>
-                <td>Отличный</td>
-                <td>3 y</td>
+                <td><a href="https://help.ubuntu.com/">Linux Ubuntu</a></td>
+                <td>Excellent</td>
+                <td>3</td>
             </tr>
             <tr>
-                <td>Kali Linux</td>
-                <td>Отличный</td>
-                <td>1.5 y</td>
+                <td><a href="https://www.kali.org/docs/">Kali Linux</a></td>
+                <td>Excellent</td>
+                <td>1.5</td>
             </tr>
         </table>
     </div>
 </details>
-
 
 
 <details>
@@ -104,7 +104,6 @@
 </details>
 
 
-
 ### Hide secret text inside an image using Python.
 
 ```python
@@ -116,6 +115,8 @@ secret.save('secret_image.png')
 
 print(lsb.reveal('secret_image.png'))
 ```
+
+<img src="icons/footer.png" alt="Footer" width="100%" height="90%">
 
 
 <div id="header" align="center">
