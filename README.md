@@ -116,9 +116,6 @@ secret.save('secret_image.png')
 print(lsb.reveal('secret_image.png'))
 ```
 
-<img src="icons/footer.png" alt="Footer" width="100%" height="90%">
-
-
 <div id="header" align="center">
     <img width="15px" height="15px" src="./icons/discord.png" />
     <img width="15px" height="15px" src="./icons/facebook.png" />
@@ -135,3 +132,6 @@ print(lsb.reveal('secret_image.png'))
     <a href='https://instagram.com/marselle.naz'>Instagram</a> - 
     <a id="cy-effective-orcid-url" class="underline" href="https://orcid.org/0009-0005-2219-5843" target="orcid.widget" rel="me noopener noreferrer" style="vertical-align: top">ORCID ID</a>
 </div>
+
+
+<img src="icons/footer.png" alt="Footer" width="100%" height="90%">
