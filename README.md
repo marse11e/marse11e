@@ -101,3 +101,4 @@ print(lsb.reveal('secret_image.png'))
 </div>
 
 
+<a href="README.md" download="README.md">Скачать файл</a>
