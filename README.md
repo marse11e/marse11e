@@ -48,7 +48,7 @@
     <li><strong>Mobile & Cross-Platform:</strong> Flutter, Swift</li>
     <li><strong>Design & Multimedia:</strong> Adobe Photoshop, Illustrator, Premiere Pro, After Effects, XD, InDesign, Lightroom, Figma, Canva</li>
     <li><strong>Version Control & Collaboration:</strong> Git, GitHub, GitLab</li>
-    <li><strong>Other Technologies:</strong> Kafka, RabbitMQ, Elasticsearch, Nginx, Linux, PHP, Flask, Solidity (for smart contracts), WebAssembly, Xamarin, jQuery, Trello, Jira, Aiogram, Telegram API, Beautiful Soup, Pillow, NumPy, Pandas</li>
+    <li><strong>Other Technologies:</strong> Kafka, RabbitMQ, Elasticsearch, Nginx, Linux, PHP, Flask, Solidity (for smart contracts), WebAssembly, Xamarin, jQuery, Trello, Jira, Aiogram, Telegram API, Beautiful Soup, Pillow, NumPy, Pandas, Matplotlib, OpenCV, NLTK, SpaCy, Transformers, Hugging Face Hub, Pydantic</li>
 </ul>
 
 
